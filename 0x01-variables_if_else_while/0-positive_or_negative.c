@@ -5,7 +5,7 @@
 int main()
 {
 
-      int x;
+      long  x;
       scanf("%d",&x);
       if (x<0)
 	   printf("is negative") ;
