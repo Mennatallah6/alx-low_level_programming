@@ -11,7 +11,7 @@ int digit = 0;
 while
 {
 (digit <= 9)
-printf("%d", digit);
+printf("%i", digit);
 digit++;
 }
 printf('\n');
