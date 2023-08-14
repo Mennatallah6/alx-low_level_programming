@@ -2,13 +2,6 @@
 #include <time.h>
 #include <stdio.h>
 
-/**
- * main - entry point
- *
- * Descreption: positive or negative 
- *
- * Return : 0 (success)
-*/
 int main(void)
 {
 	int n;
